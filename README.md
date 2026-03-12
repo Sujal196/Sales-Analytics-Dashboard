@@ -1,4 +1,4 @@
-## Sales-Dashboard 
+## Sales-Data-Analysis-Dashboard 
 
 ### Dashboard Link : *(To be updated after Power BI Service publication)*
 
