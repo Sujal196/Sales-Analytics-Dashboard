@@ -159,4 +159,4 @@ This ensures complete transparency and self-service analytics for business users
   
 ## Conclusion
 
-The **Sales Power BI Dashboard** delivers a comprehensive, scalable and executive-ready analytics solution. It empowers stakeholders with real-time insights, improves decision accuracy and supports revenue growth and profitability optimization through data-backed strategies.
+The **Sales Data Analysis Power BI Dashboard** delivers a comprehensive, scalable and executive-ready analytics solution. It empowers stakeholders with real-time insights, improves decision accuracy and supports revenue growth and profitability optimization through data-backed strategies.
